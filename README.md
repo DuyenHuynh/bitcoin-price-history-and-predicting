@@ -31,9 +31,10 @@ Columns:
 - Change %: Percentage change in Bitcoin's close price from the previous day
 
       price_data.sample(10)
-
 ![image](https://github.com/user-attachments/assets/4d8cd7c5-7d80-4a22-9072-10b3d129a59a)
 
+      price_data.info()
+![image](https://github.com/user-attachments/assets/f7c5dbe1-5271-443a-a47b-c3728f45763a)
 
 
 ## 4. Tools and technologies
@@ -55,6 +56,12 @@ For a project focused on Bitcoin price analysis and prediction, Python offers a 
    - **Statsmodels**: This library provides statistical models, including ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity), which are useful for time series forecasting in Bitcoin’s volatile price environment. Statsmodels also enables hypothesis testing and other statistical analysis to evaluate the significance of results.
   
 ## 5. Key insights
+### a. Basic EDA insights
+- The Open, Close, Low, and High prices appear to follow the same trend throughout the specified period.
+![image](https://github.com/user-attachments/assets/ac32699f-834a-4826-ba1e-3fc46e9f8f35)
+
+
+
 
    
 
