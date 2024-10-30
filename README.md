@@ -30,6 +30,12 @@ Columns:
 - Volume: Trading volume of Bitcoin on the given date
 - Change %: Percentage change in Bitcoin's close price from the previous day
 
+      price_data.sample(10)
+
+![image](https://github.com/user-attachments/assets/4d8cd7c5-7d80-4a22-9072-10b3d129a59a)
+
+
+
 ## 4. Tools and technologies
 For a project focused on Bitcoin price analysis and prediction, Python offers a robust ecosystem with specialized libraries that facilitate data gathering, processing, and modeling. Here are tools and technologies used in the project:
 
@@ -49,6 +55,8 @@ For a project focused on Bitcoin price analysis and prediction, Python offers a 
    - **Statsmodels**: This library provides statistical models, including ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity), which are useful for time series forecasting in Bitcoin’s volatile price environment. Statsmodels also enables hypothesis testing and other statistical analysis to evaluate the significance of results.
   
 ## 5. Key insights
+
+   
 
 ## 6. Hypotheses
 
