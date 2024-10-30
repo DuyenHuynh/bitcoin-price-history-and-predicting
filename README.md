@@ -58,7 +58,11 @@ For a project focused on Bitcoin price analysis and prediction, Python offers a 
 ## 5. Key insights
 ### a. Basic EDA insights
 - The Open, Close, Low, and High prices appear to follow the same trend throughout the specified period.
-![image](https://github.com/user-attachments/assets/ac32699f-834a-4826-ba1e-3fc46e9f8f35)
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/67a4c29d-0a0f-4cce-a3b7-2f5bcc7ab517">
+
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/8baf7015-7cda-4663-a362-16ee267a91a7">
+
+
 
 
 
